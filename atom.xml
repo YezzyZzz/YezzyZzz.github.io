@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-11-24T08:34:59.525Z</updated>
+  <updated>2022-11-24T07:35:28.901Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,28 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>Xmal代码结构详解</title>
-    <link href="http://example.com/2022/11/24/first-blog/"/>
-    <id>http://example.com/2022/11/24/first-blog/</id>
-    <published>2022-11-24T08:28:17.835Z</published>
-    <updated>2022-11-24T08:34:59.525Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="Xmal代码结构"><a href="#Xmal代码结构" class="headerlink" title="Xmal代码结构"></a>Xmal代码结构</h1><h3 id="Feature-extraction"><a href="#Feature-extraction" class="headerlink" title="Feature extraction"></a>Feature extraction</h3><h6 id="1-get-features-from-apks-by-multi-process"><a href="#1-get-features-from-apks-by-multi-process" class="headerlink" title="1  get features from apks by multi-process"></a>1  get features from apks by multi-process</h6><table><thead><tr><th>input</th><th>output</th></tr></thead><tbody><tr><td></td><td></td></tr></tbody></table><h6 id="2-get-feature-matrix-from-the-txt-file"><a href="#2-get-feature-matrix-from-the-txt-file" class="headerlink" title="2  get feature matrix from the txt file"></a>2  get feature matrix from the txt file</h6><p>Step1: generate FeatureList using  previous work,get 158 features</p><p>Step2: generate the featureMatrix using the FeatureList</p><h3 id="Model-Train"><a href="#Model-Train" class="headerlink" title="Model Train"></a>Model Train</h3><h3 id="Detect-samples"><a href="#Detect-samples" class="headerlink" title="Detect samples"></a>Detect samples</h3>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h1 id=&quot;Xmal代码结构&quot;&gt;&lt;a href=&quot;#Xmal代码结构&quot; class=&quot;headerlink&quot; title=&quot;Xmal代码结构&quot;&gt;&lt;/a&gt;Xmal代码结构&lt;/h1&gt;&lt;h3 id=&quot;Feature-extraction&quot;&gt;&lt;a href=&quot;#Feature-ext</summary>
-      
-    
-    
-    
-    
-    <category term="haha" scheme="http://example.com/tags/haha/"/>
-    
-  </entry>
   
   <entry>
     <title>Hello World</title>
