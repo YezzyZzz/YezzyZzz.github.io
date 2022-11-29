@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Crazy Thursday V50╰(*°▽°*)╯</title>
+  <title>Island</title>
   
   
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-11-29T08:25:46.991Z</updated>
+  <updated>2022-11-29T08:34:06.551Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,11 +17,32 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>about</title>
+    <link href="http://example.com/2022/11/29/about/"/>
+    <id>http://example.com/2022/11/29/about/</id>
+    <published>2022-11-29T08:33:59.138Z</published>
+    <updated>2022-11-29T08:34:06.551Z</updated>
+    
+    <content type="html"><![CDATA[<p>abbbbbbbbbbbbbbbout</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;abbbbbbbbbbbbbbbout&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>This is my first blog!</title>
     <link href="http://example.com/2022/11/28/firstBlog/"/>
     <id>http://example.com/2022/11/28/firstBlog/</id>
     <published>2022-11-28T12:30:50.380Z</published>
-    <updated>2022-11-29T08:25:46.991Z</updated>
+    <updated>2022-11-29T08:29:35.434Z</updated>
     
     <content type="html"><![CDATA[<p>follow me</p>]]></content>
     
